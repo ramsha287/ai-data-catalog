@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+streamlit
+sqlalchemy
+sqlite3
+python-dotenv
+openai
+faiss-cpu
+sentence-transformers
+requests
