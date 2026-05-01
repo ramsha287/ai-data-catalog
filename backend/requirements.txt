@@ -9,3 +9,4 @@ openai
 faiss-cpu
 sentence-transformers
 requests
+python-multipart
