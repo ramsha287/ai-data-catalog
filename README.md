@@ -207,8 +207,10 @@ Try these in the app:
 ## 📸 Demo (Add screenshots here)
 
 * Upload Dataset
+  <img width="1559" height="287" alt="image" src="https://github.com/user-attachments/assets/ead4b616-61b2-463a-ba55-00a838333093" />
+
 * Semantic Search
-* SQL Generation
+  <img width="1881" height="846" alt="image" src="https://github.com/user-attachments/assets/af8b7072-8001-4d43-afd9-855f51070a31" />
 
 ---
 
