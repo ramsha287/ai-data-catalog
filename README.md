@@ -204,7 +204,7 @@ Try these in the app:
 
 ---
 
-## 📸 Demo (Add screenshots here)
+## 📸 Demo 
 
 * Upload Dataset
   <img width="1559" height="287" alt="image" src="https://github.com/user-attachments/assets/ead4b616-61b2-463a-ba55-00a838333093" />
