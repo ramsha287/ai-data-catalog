@@ -1,12 +1,9 @@
 fastapi
 uvicorn
 pandas
-streamlit
-sqlalchemy
-sqlite3
-python-dotenv
-openai
+numpy
 faiss-cpu
 sentence-transformers
 requests
 python-multipart
+sqlalchemy
